@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashwanth Narlapally</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🔭 I’m currently working on [Auto_ML](Auto_Ml)
+- 🔭 I’m currently working on [Auto_ML](https://github.com/Ashwanth12/Auto_Ml)
 
 - 📝 I regularly write articles on [https://medium.com/@narlapallyashwanth](https://medium.com/@narlapallyashwanth)
 
